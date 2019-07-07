@@ -1,2 +1,2 @@
 # Hello Git
-# Switching preferred editor to VS Code.
+# This is a test repository
