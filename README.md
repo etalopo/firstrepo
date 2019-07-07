@@ -1,1 +1,2 @@
-# Hello World.
+# Hello Git
+# Switching preferred editor to VS Code.
